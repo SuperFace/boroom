@@ -1,2 +1,2 @@
 # boroom
-boroom is a web hotel for persons
+Here is a broad social networking platform.
